@@ -39,11 +39,11 @@ App
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TarkhanGurbanli/Far-Away-Packing-List.git
+   git clone https://github.com/TarkhanGurbanli/Far-Away.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd far-away-packing-list
+   cd far-away
    ```
 3. Install dependencies:
    ```bash
